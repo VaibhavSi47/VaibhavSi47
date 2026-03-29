@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VaibhavSi47
+- 👋 Hi, I’m Vaibhav
+- Professional SDE with 3.6 years experience working in Web technologies, Java (Spring Boot) + Angular + calypso products @Nasdaq
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on ...(more than one)*_*
